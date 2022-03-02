@@ -69,7 +69,7 @@ pipeline {
       steps {
         echo 'Waiting for Dev manager approval'
         timeout(time: 7, unit: 'DAYS') {
-          input message: 'Do you approve to deploy to QA env?'
+          input message: 'Do you approve to deploy to QA environ?'
         }
       }
     }
