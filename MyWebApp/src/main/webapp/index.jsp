@@ -8,6 +8,7 @@
   <p>Is it triggered?</p>
   <ul>
     <li>How about now</li>
+    <li>Second try</li>
   </ul>
 </body>
 </html>
